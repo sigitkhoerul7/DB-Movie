@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_rate"
+        android:icon="@mipmap/ic_teater"
+        android:title="Top Rate Movie" />
+    <item
+        android:id="@+id/navigation_movie"
+        android:icon="@mipmap/ic_movie"
+        android:title="Movies Popular" />
+
+    <item
+        android:id="@+id/navigation_tv"
+        android:icon="@drawable/ic_aspect"
+        android:title="Now Playing" />
+
+
+</menu>
